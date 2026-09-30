@@ -18,4 +18,8 @@ button for version caveats and sources. Source code and build scripts are includ
 2. Запусти VintageStoryCalculator.exe.
 3. Язык выбирается справа сверху: Русский / English.
 
+U also can support me if u download that app from itch.io. I appreciate it
+https://krotus12.itch.io/vs-calc
+
+
 That app is AI Generated
